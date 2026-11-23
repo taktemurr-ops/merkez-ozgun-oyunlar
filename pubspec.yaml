@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
+      ref: 889abf1c89a8d9629dcc40126f34a2b0cf46b72c
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_gunluk_uclu:
     git:
@@ -79,14 +79,6 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-takimyildiz
       ref: 41a00d5347748e9bf2af290377e7682896dbba46
-  oyun_kelime_kafesi:
-    git:
-      url: https://github.com/taktemurr-ops/oyun-kelime-kafesi
-      ref: 70a460132271b083c2ed7a51f7d12a38e9e54a32
-  oyun_dusen_harfler:
-    git:
-      url: https://github.com/taktemurr-ops/oyun-dusen-harfler
-      ref: b1259253f540d549936dbb2d59a520abe51eb6d4
   oyun_disli_atolyesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-disli-atolyesi
@@ -144,15 +136,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
+      ref: 889abf1c89a8d9629dcc40126f34a2b0cf46b72c
   ozgun_motoru:
     git:
       url: https://github.com/taktemurr-ops/ozgun-motoru
       ref: 8cbcf48993a56c931ea4df5149b2534ac0dc32f1
-  kelime_motoru:
-    git:
-      url: https://github.com/taktemurr-ops/kelime-motoru
-      ref: 79c78a7c5cb055a053fdc8eba6c9f30620bd68e6
 
 dev_dependencies:
   flutter_test:

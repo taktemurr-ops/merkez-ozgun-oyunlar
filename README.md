@@ -1,6 +1,6 @@
 # Özgün Oyunlar · Original Games (merkez-ozgun-oyunlar)
 
-Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 27 oyun ile Kelime ailesinden paylaşılan 2 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
+Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 27 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
 
 | Oyun | Depo |
 |---|---|
@@ -20,8 +20,6 @@
 | Mantar Avı | [oyun-mantar-avi](https://github.com/taktemurr-ops/oyun-mantar-avi) |
 | Pazar Tezgâhı | [oyun-pazar-tezgahi](https://github.com/taktemurr-ops/oyun-pazar-tezgahi) |
 | Takımyıldız | [oyun-takimyildiz](https://github.com/taktemurr-ops/oyun-takimyildiz) |
-| Kelime Kafesi | [oyun-kelime-kafesi](https://github.com/taktemurr-ops/oyun-kelime-kafesi) |
-| Düşen Harfler | [oyun-dusen-harfler](https://github.com/taktemurr-ops/oyun-dusen-harfler) |
 | Dişli Atölyesi | [oyun-disli-atolyesi](https://github.com/taktemurr-ops/oyun-disli-atolyesi) |
 | Işık Yolu | [oyun-isik-yolu](https://github.com/taktemurr-ops/oyun-isik-yolu) |
 | Döner Dünya | [oyun-doner-dunya](https://github.com/taktemurr-ops/oyun-doner-dunya) |

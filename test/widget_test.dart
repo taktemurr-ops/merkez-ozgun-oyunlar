@@ -21,8 +21,6 @@ void main() {
       'oyun-mantar-avi',
       'oyun-pazar-tezgahi',
       'oyun-takimyildiz',
-      'oyun-kelime-kafesi',
-      'oyun-dusen-harfler',
       'oyun-disli-atolyesi',
       'oyun-isik-yolu',
       'oyun-doner-dunya',
