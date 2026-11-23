@@ -66,11 +66,11 @@ dependencies:
   oyun_kelime_kafesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-kafesi
-      ref: b5d9ff913ee3a283a7b341a32badec008ed71c88
+      ref: 70a460132271b083c2ed7a51f7d12a38e9e54a32
   oyun_dusen_harfler:
     git:
       url: https://github.com/taktemurr-ops/oyun-dusen-harfler
-      ref: d4939ab8aa1edcb4791f8eba5046917f964d8784
+      ref: b1259253f540d549936dbb2d59a520abe51eb6d4
   oyun_disli_atolyesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-disli-atolyesi
@@ -136,7 +136,7 @@ dependency_overrides:
   kelime_motoru:
     git:
       url: https://github.com/taktemurr-ops/kelime-motoru
-      ref: 12d772b612ea8b800c506d0f5260c9bec7a2abca
+      ref: 79c78a7c5cb055a053fdc8eba6c9f30620bd68e6
 
 dev_dependencies:
   flutter_test:
