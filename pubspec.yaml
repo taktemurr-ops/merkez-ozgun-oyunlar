@@ -1,0 +1,178 @@
+name: merkez_ozgun_oyunlar
+description: "Özgün Oyunlar merkez uygulaması. Offline-first Flutter game for Android, iOS and Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 921df6392b2121ffd438a286673ef9f10c988273
+  # Merkezdeki oyunlar (her biri kendi deposunda)
+  oyun_gunluk_uclu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-gunluk-uclu
+      ref: main
+  oyun_kilim_dokuma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kilim-dokuma
+      ref: main
+  oyun_cini_ustasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-cini-ustasi
+      ref: main
+  oyun_ebru_atolyesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ebru-atolyesi
+      ref: main
+  oyun_hat_izi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hat-izi
+      ref: main
+  oyun_golge_perdesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-golge-perdesi
+      ref: main
+  oyun_kagit_katlama:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kagit-katlama
+      ref: main
+  oyun_lale_bahcesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-lale-bahcesi
+      ref: main
+  oyun_bal_petegi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bal-petegi
+      ref: main
+  oyun_mantar_avi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mantar-avi
+      ref: main
+  oyun_pazar_tezgahi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-pazar-tezgahi
+      ref: main
+  oyun_takimyildiz:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-takimyildiz
+      ref: main
+  oyun_kelime_kafesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kelime-kafesi
+      ref: main
+  oyun_dusen_harfler:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dusen-harfler
+      ref: main
+  oyun_disli_atolyesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-disli-atolyesi
+      ref: main
+  oyun_isik_yolu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-isik-yolu
+      ref: main
+  oyun_doner_dunya:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-doner-dunya
+      ref: main
+  oyun_domino_zinciri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-domino-zinciri
+      ref: main
+  oyun_tren_makasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tren-makasi
+      ref: main
+  oyun_kum_saati:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kum-saati
+      ref: main
+  oyun_kervan_yolu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kervan-yolu
+      ref: main
+  oyun_mahalle_kur:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mahalle-kur
+      ref: main
+  oyun_akvaryum_dengesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-akvaryum-dengesi
+      ref: main
+  oyun_boya_karisimi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-boya-karisimi
+      ref: main
+  oyun_ses_labirenti:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ses-labirenti
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Tüm oyunlar aynı çekirdek ve motor sürümlerini kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 921df6392b2121ffd438a286673ef9f10c988273
+  ozgun_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/ozgun-motoru
+      ref: 5b0612d9497add21979d7bd510d9bbac289f146a
+  kelime_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/kelime-motoru
+      ref: f43d0dcc237a7ae056aab8616a7e97397ef3dbfa
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#1F2A44"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#1F2A44"
+    theme_color: "#1F2A44"
+
+flutter_native_splash:
+  color: "#1F2A44"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#1F2A44"
+    image: assets/branding/splash_android12.png
+  web: true
