@@ -100,7 +100,7 @@ final hubConfig = HubConfig(
       'Từ thảm kilim đến chòm sao: câu đố mới trong một ứng dụng',
       'Mula kilim hanggang konstelasyon: bagong palaisipan sa iisang app',
     ],
-  seedColor: const Color(0xFFB0563B),
+  seedColor: const Color(0xFF6644D8),
   icon: Icons.auto_awesome,
   games: [
     gunlukUcluConfig,
