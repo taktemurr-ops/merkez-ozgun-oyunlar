@@ -1,6 +1,6 @@
 # Özgün Oyunlar · Original Games (merkez-ozgun-oyunlar)
 
-Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 23 oyun ile Kelime ailesinden paylaşılan 2 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
+Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 27 oyun ile Kelime ailesinden paylaşılan 2 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
 
 | Oyun | Depo |
 |---|---|
@@ -11,6 +11,10 @@
 | Hat İzi | [oyun-hat-izi](https://github.com/taktemurr-ops/oyun-hat-izi) |
 | Gölge Perdesi | [oyun-golge-perdesi](https://github.com/taktemurr-ops/oyun-golge-perdesi) |
 | Kâğıt Katlama | [oyun-kagit-katlama](https://github.com/taktemurr-ops/oyun-kagit-katlama) |
+| Kündekâri | [oyun-kundekari](https://github.com/taktemurr-ops/oyun-kundekari) |
+| Tezhip | [oyun-tezhip](https://github.com/taktemurr-ops/oyun-tezhip) |
+| Cam Boncuk Fırını | [oyun-cam-boncuk-firini](https://github.com/taktemurr-ops/oyun-cam-boncuk-firini) |
+| Çömlek Çarkı | [oyun-comlek-carki](https://github.com/taktemurr-ops/oyun-comlek-carki) |
 | Lale Bahçesi | [oyun-lale-bahcesi](https://github.com/taktemurr-ops/oyun-lale-bahcesi) |
 | Bal Peteği | [oyun-bal-petegi](https://github.com/taktemurr-ops/oyun-bal-petegi) |
 | Mantar Avı | [oyun-mantar-avi](https://github.com/taktemurr-ops/oyun-mantar-avi) |

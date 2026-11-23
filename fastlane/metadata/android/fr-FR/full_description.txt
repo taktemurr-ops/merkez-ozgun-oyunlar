@@ -1,7 +1,7 @@
-Jeux Originaux réunit 25 jeux conçus par notre studio dans une app. Des casse-têtes inspirés de l’artisanat (kilim, faïence, marbrure, calligraphie), des mécanismes d’engrenages, de miroirs et d’aiguillages, des jeux de logique comme le jardin de tulipes, la ruche et la cueillette, et de petits mondes : route des caravanes, quartier, aquarium. Le Labyrinthe Sonore se joue sans la vue. Chaque jeu garde sa progression, ses missions et ses succès.
+Jeux Originaux réunit 29 jeux conçus par notre studio dans une app. Des casse-têtes inspirés de l’artisanat (kilim, faïence, marbrure, calligraphie), des mécanismes d’engrenages, de miroirs et d’aiguillages, des jeux de logique comme le jardin de tulipes, la ruche et la cueillette, et de petits mondes : route des caravanes, quartier, aquarium. Le Labyrinthe Sonore se joue sans la vue. Chaque jeu garde sa progression, ses missions et ses succès.
 
 • Chaque jour: Trio du Jour
-• Artisanat: Tissage de Kilim, Maître Faïencier, Atelier de Marbrure, Trait de Calligraphie, Rideau d’Ombres, Pliage de Papier
+• Artisanat: Tissage de Kilim, Maître Faïencier, Atelier de Marbrure, Trait de Calligraphie, Rideau d’Ombres, Pliage de Papier, Panneaux Kündekâri, Enluminure, Four à Perles, Tour de Potier
 • Logique et mots: Jardin de Tulipes, Chemin de Ruche, Cueillette de Champignons, Étal du Marché, Constellations, Carré de Mots, Lettres qui Tombent
 • Mécanismes: Atelier d’Engrenages, Chemin de Lumière, Monde Tournant, Chaîne de Dominos, Aiguillages, Sablier
 • Petits mondes: Route des Caravanes, Bâtis ton Quartier, Équilibre de l’Aquarium, Mélange de Peinture, Labyrinthe Sonore

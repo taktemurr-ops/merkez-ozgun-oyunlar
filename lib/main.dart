@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:oyun_akvaryum_dengesi/oyun_akvaryum_dengesi.dart';
 import 'package:oyun_bal_petegi/oyun_bal_petegi.dart';
 import 'package:oyun_boya_karisimi/oyun_boya_karisimi.dart';
+import 'package:oyun_cam_boncuk_firini/oyun_cam_boncuk_firini.dart';
 import 'package:oyun_cini_ustasi/oyun_cini_ustasi.dart';
+import 'package:oyun_comlek_carki/oyun_comlek_carki.dart';
 import 'package:oyun_disli_atolyesi/oyun_disli_atolyesi.dart';
 import 'package:oyun_domino_zinciri/oyun_domino_zinciri.dart';
 import 'package:oyun_doner_dunya/oyun_doner_dunya.dart';
@@ -17,12 +19,14 @@ import 'package:oyun_kelime_kafesi/oyun_kelime_kafesi.dart';
 import 'package:oyun_kervan_yolu/oyun_kervan_yolu.dart';
 import 'package:oyun_kilim_dokuma/oyun_kilim_dokuma.dart';
 import 'package:oyun_kum_saati/oyun_kum_saati.dart';
+import 'package:oyun_kundekari/oyun_kundekari.dart';
 import 'package:oyun_lale_bahcesi/oyun_lale_bahcesi.dart';
 import 'package:oyun_mahalle_kur/oyun_mahalle_kur.dart';
 import 'package:oyun_mantar_avi/oyun_mantar_avi.dart';
 import 'package:oyun_pazar_tezgahi/oyun_pazar_tezgahi.dart';
 import 'package:oyun_ses_labirenti/oyun_ses_labirenti.dart';
 import 'package:oyun_takimyildiz/oyun_takimyildiz.dart';
+import 'package:oyun_tezhip/oyun_tezhip.dart';
 import 'package:oyun_tren_makasi/oyun_tren_makasi.dart';
 import 'package:studio_core/app/hub.dart';
 
@@ -110,6 +114,10 @@ final hubConfig = HubConfig(
     hatIziConfig,
     golgePerdesiConfig,
     kagitKatlamaConfig,
+    kundekariConfig,
+    tezhipConfig,
+    camBoncukConfig,
+    comlekCarkiConfig,
     laleBahcesiConfig,
     balPetegiConfig,
     mantarAviConfig,
@@ -135,7 +143,9 @@ final hubConfig = HubConfig(
     'oyun-akvaryum-dengesi': GameCover('aquac'),
     'oyun-bal-petegi': GameCover('honeyc'),
     'oyun-boya-karisimi': GameCover('paintc'),
+    'oyun-cam-boncuk-firini': GameCover('boncukc'),
     'oyun-cini-ustasi': GameCover('cinic'),
+    'oyun-comlek-carki': GameCover('comlekc'),
     'oyun-disli-atolyesi': GameCover('gearc'),
     'oyun-domino': GameCover('domino'),
     'oyun-domino-zinciri': GameCover('dominoc'),
@@ -151,12 +161,14 @@ final hubConfig = HubConfig(
     'oyun-kervan-yolu': GameCover('caravanc'),
     'oyun-kilim-dokuma': GameCover('kilimc'),
     'oyun-kum-saati': GameCover('sandc'),
+    'oyun-kundekari': GameCover('kundec'),
     'oyun-lale-bahcesi': GameCover('tulipc'),
     'oyun-mahalle-kur': GameCover('nbhdc'),
     'oyun-mantar-avi': GameCover('mushc'),
     'oyun-pazar-tezgahi': GameCover('stallc'),
     'oyun-ses-labirenti': GameCover('soundc'),
     'oyun-takimyildiz': GameCover('starsc'),
+    'oyun-tezhip': GameCover('tezhipc'),
     'oyun-tren-makasi': GameCover('trainc'),
   },
   defaultCover: const GameCover('kilimc'),
@@ -234,7 +246,7 @@ final hubConfig = HubConfig(
           'Thủ công',
           'Sining-kamay',
         ],
-        ids: ['oyun-kilim-dokuma', 'oyun-cini-ustasi', 'oyun-ebru-atolyesi', 'oyun-hat-izi', 'oyun-golge-perdesi', 'oyun-kagit-katlama']),
+        ids: ['oyun-kilim-dokuma', 'oyun-cini-ustasi', 'oyun-ebru-atolyesi', 'oyun-hat-izi', 'oyun-golge-perdesi', 'oyun-kagit-katlama', 'oyun-kundekari', 'oyun-tezhip', 'oyun-cam-boncuk-firini', 'oyun-comlek-carki']),
     HubSection(
         title: [
           'Mantık ve kelime',

@@ -1,7 +1,7 @@
-Originelle Spiele vereint 25 eigens entworfene Spiele in einer App. Rätsel nach Handwerken wie Kelimweben, Kacheldrehen, Marmorieren und Kalligrafie; Mechaniken mit Zahnrädern, Spiegeln und Weichen; Logikspiele wie Tulpengarten, Honigwabe und Pilzsuche; kleine Welten wie Karawanenweg, Viertel und Aquarium. Das Klanglabyrinth ist auch ohne Sehen spielbar. Jedes Spiel hat eigenen Fortschritt, Missionen und Erfolge.
+Originelle Spiele vereint 29 eigens entworfene Spiele in einer App. Rätsel nach Handwerken wie Kelimweben, Kacheldrehen, Marmorieren und Kalligrafie; Mechaniken mit Zahnrädern, Spiegeln und Weichen; Logikspiele wie Tulpengarten, Honigwabe und Pilzsuche; kleine Welten wie Karawanenweg, Viertel und Aquarium. Das Klanglabyrinth ist auch ohne Sehen spielbar. Jedes Spiel hat eigenen Fortschritt, Missionen und Erfolge.
 
 • Jeden Tag: Tägliches Trio
-• Handwerk: Kelim-Weberei, Kachelmeister, Marmorier-Atelier, Kalligrafie-Spur, Schattenvorhang, Papierfalten
+• Handwerk: Kelim-Weberei, Kachelmeister, Marmorier-Atelier, Kalligrafie-Spur, Schattenvorhang, Papierfalten, Kündekari-Paneele, Buchmalerei, Glasperlenofen, Töpferscheibe
 • Logik und Wörter: Tulpengarten, Honigwaben-Pfad, Pilzsuche, Marktstand, Sternbilder, Wortquadrat, Fallende Buchstaben
 • Mechanismen: Zahnradwerkstatt, Lichtweg, Drehende Welt, Dominokette, Weichensteller, Sanduhr
 • Kleine Welten: Karawanenweg, Viertel Bauen, Aquarium-Gleichgewicht, Farbmischer, Klanglabyrinth

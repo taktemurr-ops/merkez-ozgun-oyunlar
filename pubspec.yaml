@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 921df6392b2121ffd438a286673ef9f10c988273
+      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_gunluk_uclu:
     git:
@@ -43,6 +43,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-kagit-katlama
       ref: ab77a56e05d2a6716470c28e2d43f617cb3e717d
+  oyun_kundekari:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kundekari
+      ref: 09de174e8e5b15e10806b4a8397c0630aa304847
+  oyun_tezhip:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tezhip
+      ref: 7dc8225ad12f2055216ed4a99285408055b9ff63
+  oyun_cam_boncuk_firini:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-cam-boncuk-firini
+      ref: 695de5acb08ddf16aef2846ae45cc94348139a06
+  oyun_comlek_carki:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-comlek-carki
+      ref: c589992e9f52799b0426d66c493460959b74e0a8
   oyun_lale_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-lale-bahcesi
@@ -128,11 +144,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 921df6392b2121ffd438a286673ef9f10c988273
+      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
   ozgun_motoru:
     git:
       url: https://github.com/taktemurr-ops/ozgun-motoru
-      ref: 2cc4240fb85e09fd8b875d4f7625b67b2ddfe3a4
+      ref: 8cbcf48993a56c931ea4df5149b2534ac0dc32f1
   kelime_motoru:
     git:
       url: https://github.com/taktemurr-ops/kelime-motoru

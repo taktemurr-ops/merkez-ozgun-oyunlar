@@ -1,7 +1,7 @@
-Permainan Asli menghimpunkan 25 permainan reka bentuk studio kami dalam satu apl: teka-teki diilhamkan kraf seperti tenunan kilim, jubin, marmar dan khat; mekanisme gear, cermin dan suis; permainan logik seperti taman tulip, sarang lebah dan memburu cendawan; dan dunia kecil seperti laluan kafilah, kejiranan dan akuarium. Pagar Sesat Bunyi boleh dimainkan tanpa melihat. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
+Permainan Asli menghimpunkan 29 permainan reka bentuk studio kami dalam satu apl: teka-teki diilhamkan kraf seperti tenunan kilim, jubin, marmar dan khat; mekanisme gear, cermin dan suis; permainan logik seperti taman tulip, sarang lebah dan memburu cendawan; dan dunia kecil seperti laluan kafilah, kejiranan dan akuarium. Pagar Sesat Bunyi boleh dimainkan tanpa melihat. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
 
 • Setiap hari: Trio Harian
-• Kraf: Tenunan Kilim, Pakar Jubin, Studio Marmar, Jejak Khat, Tirai Bayang, Lipat Kertas
+• Kraf: Tenunan Kilim, Pakar Jubin, Studio Marmar, Jejak Khat, Tirai Bayang, Lipat Kertas, Panel Kündekari, Iluminasi, Relau Manik Kaca, Roda Tembikar
 • Logik dan perkataan: Taman Tulip, Laluan Sarang Lebah, Memburu Cendawan, Gerai Pasar, Buruj, Segi Empat Perkataan, Huruf Jatuh
 • Mekanisme: Bengkel Gear, Laluan Cahaya, Dunia Berputar, Rantai Domino, Suis Landasan, Jam Pasir
 • Dunia kecil: Laluan Kafilah, Bina Kejiranan, Keseimbangan Akuarium, Campur Cat, Pagar Sesat Bunyi
