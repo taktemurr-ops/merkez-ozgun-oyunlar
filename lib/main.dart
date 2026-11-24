@@ -26,7 +26,7 @@ import 'package:oyun_ses_labirenti/oyun_ses_labirenti.dart';
 import 'package:oyun_takimyildiz/oyun_takimyildiz.dart';
 import 'package:oyun_tezhip/oyun_tezhip.dart';
 import 'package:oyun_tren_makasi/oyun_tren_makasi.dart';
-import 'package:studio_core/app/hub.dart';
+import 'approved_hub.dart';
 
 /// Özgün Oyunlar: stüdyonun kendi tasarladığı el sanatı, mantık, mekanizma ve
 /// küçük dünya oyunlarını tek uygulamada toplar. Her oyunun kaydı ayrıdır.
