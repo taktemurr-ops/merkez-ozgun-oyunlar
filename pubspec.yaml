@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_gunluk_uclu:
     git:
@@ -94,7 +94,7 @@ dependencies:
   oyun_domino_zinciri:
     git:
       url: https://github.com/taktemurr-ops/oyun-domino-zinciri
-      ref: 727bf1c5b3ac67b65b416c14a66001a0650e808f
+      ref: 29dffc922c34482c2958ead57677a719c5cb0f5a
   oyun_tren_makasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-tren-makasi
@@ -136,7 +136,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   ozgun_motoru:
     git:
       url: https://github.com/taktemurr-ops/ozgun-motoru
