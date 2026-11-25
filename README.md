@@ -23,7 +23,7 @@
 | Dişli Atölyesi | [oyun-disli-atolyesi](https://github.com/taktemurr-ops/oyun-disli-atolyesi) |
 | Işık Yolu | [oyun-isik-yolu](https://github.com/taktemurr-ops/oyun-isik-yolu) |
 | Döner Dünya | [oyun-doner-dunya](https://github.com/taktemurr-ops/oyun-doner-dunya) |
-| Domino Zinciri | [oyun-domino-zinciri](https://github.com/taktemurr-ops/oyun-domino-zinciri) |
+| Devrilen Taşlar | [oyun-domino-zinciri](https://github.com/taktemurr-ops/oyun-domino-zinciri) |
 | Tren Makası | [oyun-tren-makasi](https://github.com/taktemurr-ops/oyun-tren-makasi) |
 | Kum Saati | [oyun-kum-saati](https://github.com/taktemurr-ops/oyun-kum-saati) |
 | Kervan Yolu | [oyun-kervan-yolu](https://github.com/taktemurr-ops/oyun-kervan-yolu) |

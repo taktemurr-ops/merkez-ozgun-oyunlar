@@ -3,7 +3,7 @@ Omaperäiset Pelit kokoaa 27 oman studiomme suunnittelemaa peliä: käsitöistä
 • Joka päivä: Päivän Kolmikko
 • Käsityöt: Kelim-kudonta, Laattamestari, Marmorointipaja, Kalligrafian jälki, Varjoverho, Paperin Taittelu, Kündekari-paneelit, Kultakoristelu, Lasihelmiuuni, Dreijaamo
 • Logiikka: Tulppaanipuutarha, Kennopolku, Sienijahti, Torikoju, Tähtikuviot
-• Mekanismit: Hammaspyöräpaja, Valon polku, Pyörivä Maailma, Dominoketju, Vaihteet, Tiimalasi
+• Mekanismit: Hammaspyöräpaja, Valon polku, Pyörivä Maailma, Kaatuvat Palat, Vaihteet, Tiimalasi
 • Pienet maailmat: Karavaanitie, Rakenna Kortteli, Akvaarion Tasapaino, Värien Sekoitus, Äänilabyrintti
 
 Kohokohdat

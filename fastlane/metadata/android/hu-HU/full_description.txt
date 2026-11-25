@@ -3,7 +3,7 @@ A Eredeti Játékok 27 saját tervezésű játékot gyűjt egy appba: kézműves
 • Minden nap: Napi Hármas
 • Kézművesség: Kilimszövés, Csempemester, Márványozó Műhely, Kalligráfia-nyom, Árnyékfüggöny, Papírhajtogatás, Kündekári-táblák, Tezhip-díszítés, Üveggyöngy-kemence, Fazekaskorong
 • Logika: Tulipánkert, Lépes Út, Gombavadászat, Piaci Stand, Csillagképek
-• Szerkezetek: Fogaskerék-műhely, Fényút, Forgó Világ, Dominólánc, Váltókezelő, Homokóra
+• Szerkezetek: Fogaskerék-műhely, Fényút, Forgó Világ, Dőlő Kövek, Váltókezelő, Homokóra
 • Kis világok: Karavánút, Építs Negyedet, Akváriumegyensúly, Festékkeverés, Hanglabirintus
 
 Kiemelt
