@@ -1,6 +1,6 @@
 # Özgün Oyunlar · Original Games (merkez-ozgun-oyunlar)
 
-Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 27 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
+Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 30 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
 
 | Oyun | Depo |
 |---|---|
@@ -15,11 +15,16 @@
 | Tezhip | [oyun-tezhip](https://github.com/taktemurr-ops/oyun-tezhip) |
 | Cam Boncuk Fırını | [oyun-cam-boncuk-firini](https://github.com/taktemurr-ops/oyun-cam-boncuk-firini) |
 | Çömlek Çarkı | [oyun-comlek-carki](https://github.com/taktemurr-ops/oyun-comlek-carki) |
+| Mozaik Restorasyonu | [oyun-mozaik-restorasyon](https://github.com/taktemurr-ops/oyun-mozaik-restorasyon) |
+| Hacivat ile Karagöz | [oyun-hacivat-karagoz](https://github.com/taktemurr-ops/oyun-hacivat-karagoz) |
+| Nasreddin Hoca Fıkraları | [oyun-nasreddin-hoca](https://github.com/taktemurr-ops/oyun-nasreddin-hoca) |
 | Lale Bahçesi | [oyun-lale-bahcesi](https://github.com/taktemurr-ops/oyun-lale-bahcesi) |
 | Bal Peteği | [oyun-bal-petegi](https://github.com/taktemurr-ops/oyun-bal-petegi) |
 | Mantar Avı | [oyun-mantar-avi](https://github.com/taktemurr-ops/oyun-mantar-avi) |
 | Pazar Tezgâhı | [oyun-pazar-tezgahi](https://github.com/taktemurr-ops/oyun-pazar-tezgahi) |
 | Takımyıldız | [oyun-takimyildiz](https://github.com/taktemurr-ops/oyun-takimyildiz) |
+| Boya Karışımı | [oyun-boya-karisimi](https://github.com/taktemurr-ops/oyun-boya-karisimi) |
+| Ses Labirenti | [oyun-ses-labirenti](https://github.com/taktemurr-ops/oyun-ses-labirenti) |
 | Dişli Atölyesi | [oyun-disli-atolyesi](https://github.com/taktemurr-ops/oyun-disli-atolyesi) |
 | Işık Yolu | [oyun-isik-yolu](https://github.com/taktemurr-ops/oyun-isik-yolu) |
 | Döner Dünya | [oyun-doner-dunya](https://github.com/taktemurr-ops/oyun-doner-dunya) |
@@ -29,7 +34,5 @@
 | Kervan Yolu | [oyun-kervan-yolu](https://github.com/taktemurr-ops/oyun-kervan-yolu) |
 | Mahalle Kur | [oyun-mahalle-kur](https://github.com/taktemurr-ops/oyun-mahalle-kur) |
 | Akvaryum Dengesi | [oyun-akvaryum-dengesi](https://github.com/taktemurr-ops/oyun-akvaryum-dengesi) |
-| Boya Karışımı | [oyun-boya-karisimi](https://github.com/taktemurr-ops/oyun-boya-karisimi) |
-| Ses Labirenti | [oyun-ses-labirenti](https://github.com/taktemurr-ops/oyun-ses-labirenti) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-ozgun-oyunlar/releases/download/test/merkez-ozgun-oyunlar.apk

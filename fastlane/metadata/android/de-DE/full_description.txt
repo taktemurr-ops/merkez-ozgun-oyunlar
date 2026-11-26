@@ -1,10 +1,11 @@
-Originelle Spiele vereint 27 eigens entworfene Spiele in einer App. Rätsel nach Handwerken wie Kelimweben, Kacheldrehen, Marmorieren und Kalligrafie; Mechaniken mit Zahnrädern, Spiegeln und Weichen; Logikspiele wie Tulpengarten, Honigwabe und Pilzsuche; kleine Welten wie Karawanenweg, Viertel und Aquarium. Das Klanglabyrinth ist auch ohne Sehen spielbar. Jedes Spiel hat eigenen Fortschritt, Missionen und Erfolge.
+Originelle Spiele vereint 30 eigens entworfene Spiele in einer App. Rätsel nach Handwerken wie Kelimweben, Kacheldrehen, Marmorieren und Kalligrafie; Mechaniken mit Zahnrädern, Spiegeln und Weichen; Logikspiele wie Tulpengarten, Honigwabe und Pilzsuche; kleine Welten wie Karawanenweg, Viertel und Aquarium. Das Klanglabyrinth ist auch ohne Sehen spielbar. Jedes Spiel hat eigenen Fortschritt, Missionen und Erfolge.
 
 • Jeden Tag: Tägliches Trio
-• Handwerk: Kelim-Weberei, Kachelmeister, Marmorier-Atelier, Kalligrafie-Spur, Schattenvorhang, Papierfalten, Kündekari-Paneele, Buchmalerei, Glasperlenofen, Töpferscheibe
-• Logik: Tulpengarten, Honigwaben-Pfad, Pilzsuche, Marktstand, Sternbilder
+• Handwerk: Kelim-Weberei, Kachelmeister, Marmorier-Atelier, Kalligrafie-Spur, Schattenvorhang, Papierfalten, Kündekari-Paneele, Buchmalerei, Glasperlenofen, Töpferscheibe, Mosaik-Restaurierung
+• Volksgeschichten: Hacivat und Karagöz, Nasreddin-Hodscha-Geschichten
+• Logik: Tulpengarten, Honigwaben-Pfad, Pilzsuche, Marktstand, Sternbilder, Farbmischer, Klanglabyrinth
 • Mechanismen: Zahnradwerkstatt, Lichtweg, Drehende Welt, Kippende Steine, Weichensteller, Sanduhr
-• Kleine Welten: Karawanenweg, Viertel Bauen, Aquarium-Gleichgewicht, Farbmischer, Klanglabyrinth
+• Kleine Welten: Karawanenweg, Viertel Bauen, Aquarium-Gleichgewicht
 
 Highlights
 • 100.000 Level pro Spiel; jedes Level wird erzeugt und auf Lösbarkeit geprüft.

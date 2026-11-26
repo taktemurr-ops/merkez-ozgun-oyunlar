@@ -16,11 +16,16 @@ void main() {
       'oyun-tezhip',
       'oyun-cam-boncuk-firini',
       'oyun-comlek-carki',
+      'oyun-mozaik-restorasyon',
+      'oyun-hacivat-karagoz',
+      'oyun-nasreddin-hoca',
       'oyun-lale-bahcesi',
       'oyun-bal-petegi',
       'oyun-mantar-avi',
       'oyun-pazar-tezgahi',
       'oyun-takimyildiz',
+      'oyun-boya-karisimi',
+      'oyun-ses-labirenti',
       'oyun-disli-atolyesi',
       'oyun-isik-yolu',
       'oyun-doner-dunya',
@@ -30,8 +35,6 @@ void main() {
       'oyun-kervan-yolu',
       'oyun-mahalle-kur',
       'oyun-akvaryum-dengesi',
-      'oyun-boya-karisimi',
-      'oyun-ses-labirenti',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 0);

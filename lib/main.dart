@@ -11,6 +11,7 @@ import 'package:oyun_doner_dunya/oyun_doner_dunya.dart';
 import 'package:oyun_ebru_atolyesi/oyun_ebru_atolyesi.dart';
 import 'package:oyun_golge_perdesi/oyun_golge_perdesi.dart';
 import 'package:oyun_gunluk_uclu/oyun_gunluk_uclu.dart';
+import 'package:oyun_hacivat_karagoz/oyun_hacivat_karagoz.dart';
 import 'package:oyun_hat_izi/oyun_hat_izi.dart';
 import 'package:oyun_isik_yolu/oyun_isik_yolu.dart';
 import 'package:oyun_kagit_katlama/oyun_kagit_katlama.dart';
@@ -21,6 +22,8 @@ import 'package:oyun_kundekari/oyun_kundekari.dart';
 import 'package:oyun_lale_bahcesi/oyun_lale_bahcesi.dart';
 import 'package:oyun_mahalle_kur/oyun_mahalle_kur.dart';
 import 'package:oyun_mantar_avi/oyun_mantar_avi.dart';
+import 'package:oyun_mozaik_restorasyon/oyun_mozaik_restorasyon.dart';
+import 'package:oyun_nasreddin_hoca/oyun_nasreddin_hoca.dart';
 import 'package:oyun_pazar_tezgahi/oyun_pazar_tezgahi.dart';
 import 'package:oyun_ses_labirenti/oyun_ses_labirenti.dart';
 import 'package:oyun_takimyildiz/oyun_takimyildiz.dart';
@@ -119,11 +122,16 @@ final hubConfig = HubConfig(
     tezhipConfig,
     camBoncukConfig,
     comlekCarkiConfig,
+    mozaikRestorasyonConfig,
+    hacivatKaragozConfig,
+    nasreddinHocaConfig,
     laleBahcesiConfig,
     balPetegiConfig,
     mantarAviConfig,
     pazarTezgahiConfig,
     takimyildizConfig,
+    boyaKarisimiConfig,
+    sesLabirentiConfig,
     disliAtolyesiConfig,
     isikYoluConfig,
     donerDunyaConfig,
@@ -133,8 +141,6 @@ final hubConfig = HubConfig(
     kervanYoluConfig,
     mahalleKurConfig,
     akvaryumDengesiConfig,
-    boyaKarisimiConfig,
-    sesLabirentiConfig,
   ],
   starters: ['oyun-gunluk-uclu', 'oyun-kilim-dokuma', 'oyun-isik-yolu'],
   covers: const {
@@ -150,6 +156,7 @@ final hubConfig = HubConfig(
     'oyun-ebru-atolyesi': GameCover('ebruc'),
     'oyun-golge-perdesi': GameCover('shadowc'),
     'oyun-gunluk-uclu': GameCover('trioc'),
+    'oyun-hacivat-karagoz': GameCover('karagozc'),
     'oyun-hat-izi': GameCover('callic'),
     'oyun-isik-yolu': GameCover('lightc'),
     'oyun-kagit-katlama': GameCover('foldc'),
@@ -160,6 +167,8 @@ final hubConfig = HubConfig(
     'oyun-lale-bahcesi': GameCover('tulipc'),
     'oyun-mahalle-kur': GameCover('nbhdc'),
     'oyun-mantar-avi': GameCover('mushc'),
+    'oyun-mozaik-restorasyon': GameCover('mozrestc'),
+    'oyun-nasreddin-hoca': GameCover('hocac'),
     'oyun-pazar-tezgahi': GameCover('stallc'),
     'oyun-ses-labirenti': GameCover('soundc'),
     'oyun-takimyildiz': GameCover('starsc'),
@@ -241,7 +250,44 @@ final hubConfig = HubConfig(
           'Thủ công',
           'Sining-kamay',
         ],
-        ids: ['oyun-kilim-dokuma', 'oyun-cini-ustasi', 'oyun-ebru-atolyesi', 'oyun-hat-izi', 'oyun-golge-perdesi', 'oyun-kagit-katlama', 'oyun-kundekari', 'oyun-tezhip', 'oyun-cam-boncuk-firini', 'oyun-comlek-carki']),
+        ids: ['oyun-kilim-dokuma', 'oyun-cini-ustasi', 'oyun-ebru-atolyesi', 'oyun-hat-izi', 'oyun-golge-perdesi', 'oyun-kagit-katlama', 'oyun-kundekari', 'oyun-tezhip', 'oyun-cam-boncuk-firini', 'oyun-comlek-carki', 'oyun-mozaik-restorasyon']),
+    HubSection(
+        title: [
+          'Halk hikâyeleri',
+          'Folk tales',
+          'Volksgeschichten',
+          'Cuentos populares',
+          'Contes populaires',
+          'حكايات شعبية',
+          'قصه‌های عامیانه',
+          'סיפורי עם',
+          'لوک کہانیاں',
+          'Народные истории',
+          'Народні історії',
+          'Opowieści ludowe',
+          'Lidové příběhy',
+          'Povești populare',
+          'Népi történetek',
+          'Λαϊκές ιστορίες',
+          'Racconti popolari',
+          'Contos populares',
+          'Volksverhalen',
+          'Folksagor',
+          'Folkeeventyr',
+          'Folkeeventyr',
+          'Kansantarinat',
+          '民話',
+          '민담',
+          '民间故事',
+          'लोककथाएँ',
+          'লোককথা',
+          'Cerita rakyat',
+          'Cerita rakyat',
+          'นิทานพื้นบ้าน',
+          'Truyện dân gian',
+          'Mga kuwentong-bayan',
+        ],
+        ids: ['oyun-hacivat-karagoz', 'oyun-nasreddin-hoca']),
     HubSection(
         title: [
           'Mantık',

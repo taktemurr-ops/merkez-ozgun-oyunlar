@@ -1,10 +1,11 @@
-Jocuri Originale reunește 27 jocuri create de studioul nostru: puzzle-uri inspirate din meșteșuguri — chilim, faianță, marmorare, caligrafie; mecanisme cu roți dințate, oglinzi și macazuri; jocuri de logică precum grădina cu lalele, fagurele și vânătoarea de ciuperci; lumi mici precum drumul caravanelor, cartierul și acvariul. Labirintul Sonor se joacă și fără vedere. Fiecare joc are progresul, misiunile și realizările sale.
+Jocuri Originale reunește 30 jocuri create de studioul nostru: puzzle-uri inspirate din meșteșuguri — chilim, faianță, marmorare, caligrafie; mecanisme cu roți dințate, oglinzi și macazuri; jocuri de logică precum grădina cu lalele, fagurele și vânătoarea de ciuperci; lumi mici precum drumul caravanelor, cartierul și acvariul. Labirintul Sonor se joacă și fără vedere. Fiecare joc are progresul, misiunile și realizările sale.
 
 • În fiecare zi: Trio Zilnic
-• Meșteșuguri: Țesut Chilim, Maestrul Faianței, Atelier de Marmorare, Urma Caligrafiei, Cortina de Umbre, Împăturirea Hârtiei, Panouri Kündekari, Iluminură, Cuptorul de Mărgele, Roata Olarului
-• Logică: Grădina cu Lalele, Drumul Fagurelui, Vânătoarea de Ciuperci, Taraba din Piață, Constelații
+• Meșteșuguri: Țesut Chilim, Maestrul Faianței, Atelier de Marmorare, Urma Caligrafiei, Cortina de Umbre, Împăturirea Hârtiei, Panouri Kündekari, Iluminură, Cuptorul de Mărgele, Roata Olarului, Restaurarea Mozaicului
+• Povești populare: Hacivat și Karagöz, Năzdrăvăniile lui Nastratin
+• Logică: Grădina cu Lalele, Drumul Fagurelui, Vânătoarea de Ciuperci, Taraba din Piață, Constelații, Amestec de Vopsele, Labirintul Sonor
 • Mecanisme: Atelierul de Roți Dințate, Calea Luminii, Lumea Rotitoare, Piese în Cădere, Macazuri, Clepsidra
-• Lumi mici: Drumul Caravanelor, Construiește Cartierul, Echilibrul Acvariului, Amestec de Vopsele, Labirintul Sonor
+• Lumi mici: Drumul Caravanelor, Construiește Cartierul, Echilibrul Acvariului
 
 Puncte forte
 • 100.000 de niveluri pe joc; fiecare e generat și verificat că are soluție.

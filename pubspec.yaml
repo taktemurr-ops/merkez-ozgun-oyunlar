@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_gunluk_uclu:
     git:
@@ -59,6 +59,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-comlek-carki
       ref: 8759a8457bb7817919a8b4a050509aa71031d15b
+  oyun_mozaik_restorasyon:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mozaik-restorasyon
+      ref: 5c9546cd62e882e8c213bd5297dc63a3a6ba0d97
+  oyun_hacivat_karagoz:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hacivat-karagoz
+      ref: e8e76c371e21ebc78fc5a465883395c6d515f4b3
+  oyun_nasreddin_hoca:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-nasreddin-hoca
+      ref: 011ebcb6cfde00b0721406a5ec1dbdbc2c160854
   oyun_lale_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-lale-bahcesi
@@ -136,11 +148,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   ozgun_motoru:
     git:
       url: https://github.com/taktemurr-ops/ozgun-motoru
-      ref: 9cadda4806d432ed933c69e018da0905607691da
+      ref: 5825d86ce94deb126cd40f08ce3a22c485ebf0e6
 
 dev_dependencies:
   flutter_test:

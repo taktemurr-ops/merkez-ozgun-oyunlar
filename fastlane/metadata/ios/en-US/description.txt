@@ -1,10 +1,11 @@
-Original Games brings 27 games designed by our own studio into one app. Puzzles inspired by crafts such as kilim weaving, tile turning, marbling and calligraphy; mechanisms built from gears, mirrors and rail switches; logic games like the tulip garden, honeycomb and mushroom hunt; and small worlds such as the caravan route, the neighborhood and the aquarium. Sound Maze can be played without sight. Every game keeps its own progress, missions and achievements.
+Original Games brings 30 games designed by our own studio into one app. Puzzles inspired by crafts such as kilim weaving, tile turning, marbling and calligraphy; mechanisms built from gears, mirrors and rail switches; logic games like the tulip garden, honeycomb and mushroom hunt; and small worlds such as the caravan route, the neighborhood and the aquarium. Sound Maze can be played without sight. Every game keeps its own progress, missions and achievements.
 
 • Every day: Daily Trio
-• Crafts: Kilim Weaving, Tile Master, Marbling Studio, Calligraphy Trace, Shadow Curtain, Paper Folding, Kundekari Panels, Illumination, Glass Bead Furnace, Potter's Wheel
-• Logic: Tulip Garden, Honeycomb Path, Mushroom Hunt, Market Stall, Constellations
+• Crafts: Kilim Weaving, Tile Master, Marbling Studio, Calligraphy Trace, Shadow Curtain, Paper Folding, Kundekari Panels, Illumination, Glass Bead Furnace, Potter's Wheel, Mosaic Restoration
+• Folk tales: Hacivat and Karagöz, Nasreddin Hodja Tales
+• Logic: Tulip Garden, Honeycomb Path, Mushroom Hunt, Market Stall, Constellations, Paint Mixer, Sound Maze
 • Mechanisms: Gear Workshop, Light Path, Turning World, Toppling Tiles, Rail Switches, Hourglass
-• Small worlds: Caravan Route, Build a Neighborhood, Aquarium Balance, Paint Mixer, Sound Maze
+• Small worlds: Caravan Route, Build a Neighborhood, Aquarium Balance
 
 Highlights
 • 100,000 levels per game; every level is generated and checked against its rules to be solvable.

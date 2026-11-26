@@ -1,10 +1,11 @@
-Özgün Oyunlar, stüdyonun kendi tasarladığı 27 oyunu tek uygulamada toplar. Kilim dokuma, çini döndürme, ebru ve hat gibi el sanatlarından ilham alan bulmacalar; dişliler, aynalar ve makaslarla mekanizmalar; lale bahçesi, bal peteği ve mantar avı gibi mantık oyunları; kervan yolu, mahalle ve akvaryum gibi küçük dünyalar. Ses Labirenti görmeden de oynanabilir. Her oyunun ilerlemesi, görevleri ve başarımları ayrıdır.
+Özgün Oyunlar, stüdyonun kendi tasarladığı 30 oyunu tek uygulamada toplar. Kilim dokuma, çini döndürme, ebru ve hat gibi el sanatlarından ilham alan bulmacalar; dişliler, aynalar ve makaslarla mekanizmalar; lale bahçesi, bal peteği ve mantar avı gibi mantık oyunları; kervan yolu, mahalle ve akvaryum gibi küçük dünyalar. Ses Labirenti görmeden de oynanabilir. Her oyunun ilerlemesi, görevleri ve başarımları ayrıdır.
 
 • Her gün: Günlük Üçlü
-• El sanatları: Kilim Dokuma, Çini Ustası, Ebru Atölyesi, Hat İzi, Gölge Perdesi, Kâğıt Katlama, Kündekâri, Tezhip, Cam Boncuk Fırını, Çömlek Çarkı
-• Mantık: Lale Bahçesi, Bal Peteği, Mantar Avı, Pazar Tezgâhı, Takımyıldız
+• El sanatları: Kilim Dokuma, Çini Ustası, Ebru Atölyesi, Hat İzi, Gölge Perdesi, Kâğıt Katlama, Kündekâri, Tezhip, Cam Boncuk Fırını, Çömlek Çarkı, Mozaik Restorasyonu
+• Halk hikâyeleri: Hacivat ile Karagöz, Nasreddin Hoca Fıkraları
+• Mantık: Lale Bahçesi, Bal Peteği, Mantar Avı, Pazar Tezgâhı, Takımyıldız, Boya Karışımı, Ses Labirenti
 • Mekanizmalar: Dişli Atölyesi, Işık Yolu, Döner Dünya, Devrilen Taşlar, Tren Makası, Kum Saati
-• Küçük dünyalar: Kervan Yolu, Mahalle Kur, Akvaryum Dengesi, Boya Karışımı, Ses Labirenti
+• Küçük dünyalar: Kervan Yolu, Mahalle Kur, Akvaryum Dengesi
 
 Öne çıkanlar
 • Oyun başına 100.000 bölüm; her bölüm üretilir ve kurallara göre çözülebilirliği denetlenir.

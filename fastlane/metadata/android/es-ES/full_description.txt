@@ -1,10 +1,11 @@
-Juegos Originales reúne 27 juegos diseñados por nuestro estudio en una app. Puzles inspirados en oficios como el kilim, los azulejos, el marmoleado y la caligrafía; mecanismos de engranajes, espejos y cambios de vía; juegos de lógica como el jardín de tulipanes, el panal y la caza de setas; y pequeños mundos como la ruta de caravanas, el barrio y el acuario. El Laberinto Sonoro se juega sin ver. Cada juego guarda su progreso, misiones y logros.
+Juegos Originales reúne 30 juegos diseñados por nuestro estudio en una app. Puzles inspirados en oficios como el kilim, los azulejos, el marmoleado y la caligrafía; mecanismos de engranajes, espejos y cambios de vía; juegos de lógica como el jardín de tulipanes, el panal y la caza de setas; y pequeños mundos como la ruta de caravanas, el barrio y el acuario. El Laberinto Sonoro se juega sin ver. Cada juego guarda su progreso, misiones y logros.
 
 • Cada día: Trío Diario
-• Oficios: Tejido de Kilim, Maestro Azulejero, Taller de Marmoleado, Trazo Caligráfico, Telón de Sombras, Plegado de Papel, Paneles Kündekari, Iluminación, Horno de Cuentas, Torno de Alfarero
-• Lógica: Jardín de Tulipanes, Camino de Panal, Caza de Setas, Puesto del Mercado, Constelaciones
+• Oficios: Tejido de Kilim, Maestro Azulejero, Taller de Marmoleado, Trazo Caligráfico, Telón de Sombras, Plegado de Papel, Paneles Kündekari, Iluminación, Horno de Cuentas, Torno de Alfarero, Restauración de Mosaicos
+• Cuentos populares: Hacivat y Karagöz, Cuentos de Nasreddín Hoca
+• Lógica: Jardín de Tulipanes, Camino de Panal, Caza de Setas, Puesto del Mercado, Constelaciones, Mezcla de Pintura, Laberinto Sonoro
 • Mecanismos: Taller de Engranajes, Camino de Luz, Mundo Giratorio, Fichas que Caen, Cambios de Vía, Reloj de Arena
-• Pequeños mundos: Ruta de Caravanas, Construye el Barrio, Equilibrio del Acuario, Mezcla de Pintura, Laberinto Sonoro
+• Pequeños mundos: Ruta de Caravanas, Construye el Barrio, Equilibrio del Acuario
 
 Lo más destacado
 • 100.000 niveles por juego; cada nivel se genera y se comprueba que tenga solución.

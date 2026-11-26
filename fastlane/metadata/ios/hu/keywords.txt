@@ -1,1 +1,1 @@
-napi,hármas,kilimszövés,csempemester,márványozó,műhely,kalligráfia,nyom,árnyékfüggöny,kündekári,fény
+napi,hármas,kilimszövés,csempemester,márványozó,műhely,kalligráfia,nyom,árnyékfüggöny,kündekári,dőlő

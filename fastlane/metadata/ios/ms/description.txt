@@ -1,10 +1,11 @@
-Permainan Asli menghimpunkan 27 permainan reka bentuk studio kami dalam satu apl: teka-teki diilhamkan kraf seperti tenunan kilim, jubin, marmar dan khat; mekanisme gear, cermin dan suis; permainan logik seperti taman tulip, sarang lebah dan memburu cendawan; dan dunia kecil seperti laluan kafilah, kejiranan dan akuarium. Pagar Sesat Bunyi boleh dimainkan tanpa melihat. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
+Permainan Asli menghimpunkan 30 permainan reka bentuk studio kami dalam satu apl: teka-teki diilhamkan kraf seperti tenunan kilim, jubin, marmar dan khat; mekanisme gear, cermin dan suis; permainan logik seperti taman tulip, sarang lebah dan memburu cendawan; dan dunia kecil seperti laluan kafilah, kejiranan dan akuarium. Pagar Sesat Bunyi boleh dimainkan tanpa melihat. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
 
 • Setiap hari: Trio Harian
-• Kraf: Tenunan Kilim, Pakar Jubin, Studio Marmar, Jejak Khat, Tirai Bayang, Lipat Kertas, Panel Kündekari, Iluminasi, Relau Manik Kaca, Roda Tembikar
-• Logik: Taman Tulip, Laluan Sarang Lebah, Memburu Cendawan, Gerai Pasar, Buruj
+• Kraf: Tenunan Kilim, Pakar Jubin, Studio Marmar, Jejak Khat, Tirai Bayang, Lipat Kertas, Panel Kündekari, Iluminasi, Relau Manik Kaca, Roda Tembikar, Pemulihan Mozek
+• Cerita rakyat: Hacivat dan Karagöz, Kisah Nasruddin Hoja
+• Logik: Taman Tulip, Laluan Sarang Lebah, Memburu Cendawan, Gerai Pasar, Buruj, Campur Cat, Pagar Sesat Bunyi
 • Mekanisme: Bengkel Gear, Laluan Cahaya, Dunia Berputar, Kepingan Tumbang, Suis Landasan, Jam Pasir
-• Dunia kecil: Laluan Kafilah, Bina Kejiranan, Keseimbangan Akuarium, Campur Cat, Pagar Sesat Bunyi
+• Dunia kecil: Laluan Kafilah, Bina Kejiranan, Keseimbangan Akuarium
 
 Sorotan
 • 100,000 tahap setiap permainan; setiap tahap dijana dan disemak boleh diselesaikan.

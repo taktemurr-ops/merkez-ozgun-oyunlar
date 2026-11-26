@@ -1,10 +1,11 @@
-Oryginalne Gry łączy 27 gier zaprojektowanych przez nasze studio: łamigłówki inspirowane rzemiosłem — kilim, kafle, ebru, kaligrafia; mechanizmy z zębatek, luster i zwrotnic; gry logiczne jak ogród tulipanów, plaster miodu i grzybobranie; małe światy jak szlak karawan, osiedle i akwarium. W Dźwiękowy Labirynt da się grać bez wzroku. Każda gra ma własne postępy, misje i osiągnięcia.
+Oryginalne Gry łączy 30 gier zaprojektowanych przez nasze studio: łamigłówki inspirowane rzemiosłem — kilim, kafle, ebru, kaligrafia; mechanizmy z zębatek, luster i zwrotnic; gry logiczne jak ogród tulipanów, plaster miodu i grzybobranie; małe światy jak szlak karawan, osiedle i akwarium. W Dźwiękowy Labirynt da się grać bez wzroku. Każda gra ma własne postępy, misje i osiągnięcia.
 
 • Codziennie: Codzienne Trio
-• Rękodzieło: Tkanie Kilimu, Mistrz Kafli, Pracownia Ebru, Ślad Kaligrafii, Kurtyna Cieni, Składanie Papieru, Panele Kündekari, Iluminacja, Piec do Koralików, Koło Garncarskie
-• Logika: Ogród Tulipanów, Ścieżka Plastra, Grzybobranie, Stragan, Gwiazdozbiory
+• Rękodzieło: Tkanie Kilimu, Mistrz Kafli, Pracownia Ebru, Ślad Kaligrafii, Kurtyna Cieni, Składanie Papieru, Panele Kündekari, Iluminacja, Piec do Koralików, Koło Garncarskie, Renowacja Mozaiki
+• Opowieści ludowe: Hacivat i Karagöz, Opowiastki Nasreddina Hodży
+• Logika: Ogród Tulipanów, Ścieżka Plastra, Grzybobranie, Stragan, Gwiazdozbiory, Mieszanie Farb, Dźwiękowy Labirynt
 • Mechanizmy: Warsztat Zębatek, Ścieżka Światła, Obracający się Świat, Przewracane Kostki, Zwrotnice, Klepsydra
-• Małe światy: Szlak Karawan, Zbuduj Osiedle, Równowaga Akwarium, Mieszanie Farb, Dźwiękowy Labirynt
+• Małe światy: Szlak Karawan, Zbuduj Osiedle, Równowaga Akwarium
 
 Najważniejsze
 • 100 000 poziomów na grę; każdy jest generowany i sprawdzany pod kątem rozwiązywalności.
