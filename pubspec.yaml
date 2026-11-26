@@ -13,116 +13,116 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_gunluk_uclu:
     git:
       url: https://github.com/taktemurr-ops/oyun-gunluk-uclu
-      ref: 026789c58843914ef712e46625d06dc97921358b
+      ref: 0da682be816e7ab084e25de2b2243322eee6f0cd
   oyun_kilim_dokuma:
     git:
       url: https://github.com/taktemurr-ops/oyun-kilim-dokuma
-      ref: 983c8e08e14f50ccced7d12ef9163b25d421c7c9
+      ref: a10f64ebebd7c9d59cc31d056f66eca84af452cf
   oyun_cini_ustasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-cini-ustasi
-      ref: d4f228094b47009f8535479842e8f7e3eab3fa97
+      ref: 2c300836631ea62b467f360971a863a4be5074e1
   oyun_ebru_atolyesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-ebru-atolyesi
-      ref: 806a9de18dccf5a8134ed215900f8d52edde5350
+      ref: 1cd0dbbbc919b5840dc1ccf28090e06c122a116b
   oyun_hat_izi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hat-izi
-      ref: 90bc9fe65eae91d1807304d85ed371ea6a1f9536
+      ref: 3d6dab814286c780bf22e37facf5e4d6dd2cd590
   oyun_golge_perdesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-golge-perdesi
-      ref: 2bc1f186fe283d7d2d30057d56ef0a9c3d6f8dfb
+      ref: 1ddc09ae7cdb5bde78adbe8ef60195b8848f86ab
   oyun_kagit_katlama:
     git:
       url: https://github.com/taktemurr-ops/oyun-kagit-katlama
-      ref: f42c638f221e06504362d0e063bfa7d7e07a1779
+      ref: 1e60e57732af075dcc125c3bdab1727871ae8e9b
   oyun_kundekari:
     git:
       url: https://github.com/taktemurr-ops/oyun-kundekari
-      ref: 09de174e8e5b15e10806b4a8397c0630aa304847
+      ref: 18bdbbe71854f88afc4aa05ca7f5eabf8af0af24
   oyun_tezhip:
     git:
       url: https://github.com/taktemurr-ops/oyun-tezhip
-      ref: 7dc8225ad12f2055216ed4a99285408055b9ff63
+      ref: 9cfa03b9622321f9afbc9e3512ece224f2957402
   oyun_cam_boncuk_firini:
     git:
       url: https://github.com/taktemurr-ops/oyun-cam-boncuk-firini
-      ref: 695de5acb08ddf16aef2846ae45cc94348139a06
+      ref: fe48c6ba490960c09c9462c31c9bf734538479b3
   oyun_comlek_carki:
     git:
       url: https://github.com/taktemurr-ops/oyun-comlek-carki
-      ref: c589992e9f52799b0426d66c493460959b74e0a8
+      ref: 8759a8457bb7817919a8b4a050509aa71031d15b
   oyun_lale_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-lale-bahcesi
-      ref: 1d665abf4b090789a28095d142e128b0e530c2ac
+      ref: 44f7d6f22528cab5dfd323e69cc673562e7db3ae
   oyun_bal_petegi:
     git:
       url: https://github.com/taktemurr-ops/oyun-bal-petegi
-      ref: 22fc09e962caa9aad320cf04bfc32fe4db7db192
+      ref: 5f79145b93f49ba6038b21461799134ec40e3b5e
   oyun_mantar_avi:
     git:
       url: https://github.com/taktemurr-ops/oyun-mantar-avi
-      ref: 82022f3ea5c3b1dd7744768e65e4760bbb231d86
+      ref: 30a80b32b00a3d9f53467ff491aa211a6b127003
   oyun_pazar_tezgahi:
     git:
       url: https://github.com/taktemurr-ops/oyun-pazar-tezgahi
-      ref: 04f7406624e6494ac4f118ffc2cce235bcbae2db
+      ref: 1d1cab77721d78247990396680014a89cddf2df1
   oyun_takimyildiz:
     git:
       url: https://github.com/taktemurr-ops/oyun-takimyildiz
-      ref: d5c98e4f7823a9f8992f708ec03d63bee4d0d3b9
+      ref: 63b19ca699d98648c21040c6777632cdd5712aab
   oyun_disli_atolyesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-disli-atolyesi
-      ref: 96d3c112108afcc5558fc68bbb082b42c24b5196
+      ref: a0e7350135cf1a369821080cb23221d46cc9433e
   oyun_isik_yolu:
     git:
       url: https://github.com/taktemurr-ops/oyun-isik-yolu
-      ref: 08057cff76429cf4d86f04cbb3e872548557543a
+      ref: 75e12df19be506752487f2548043dc83e07ea43c
   oyun_doner_dunya:
     git:
       url: https://github.com/taktemurr-ops/oyun-doner-dunya
-      ref: 6adaa6791a9d10b2595e7f8529364d452179189e
+      ref: b5c789ff55744e477a02307da3fe1b109426fb9c
   oyun_domino_zinciri:
     git:
       url: https://github.com/taktemurr-ops/oyun-domino-zinciri
-      ref: 29dffc922c34482c2958ead57677a719c5cb0f5a
+      ref: 2960d4493ca9967eb91953b5d04eef6ec50f6e00
   oyun_tren_makasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-tren-makasi
-      ref: 4854d41e483acf0478572dab4f99d7e15848923c
+      ref: 978b0525bd65f12b8682ca57a763bcad49375cfd
   oyun_kum_saati:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-saati
-      ref: fe574e68c40433bec17cdfc91b020328e4b768c5
+      ref: 4349f7fc7d0e031b02299662947ad6105188323d
   oyun_kervan_yolu:
     git:
       url: https://github.com/taktemurr-ops/oyun-kervan-yolu
-      ref: b618338c6a45209b4058c8197743f8971664328c
+      ref: 012872b5308bcc9d4c4b59d1f34117fbef871838
   oyun_mahalle_kur:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahalle-kur
-      ref: e64305d7d0bccf9536cf96d77466ab04a1b1ec30
+      ref: 05f7022274b22addb4a4f8bbd406ff5320bbd5cd
   oyun_akvaryum_dengesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-akvaryum-dengesi
-      ref: acf06c9f4d998e130739ac1a1c314a22e5a19d79
+      ref: 107442068e1c142e47d3462ffb65d00eab30c9b6
   oyun_boya_karisimi:
     git:
       url: https://github.com/taktemurr-ops/oyun-boya-karisimi
-      ref: d1087da693132bc9b60cb533ec5582327a05d71b
+      ref: 5d842b85511d474a1ba0435883b27a48975a1f46
   oyun_ses_labirenti:
     git:
       url: https://github.com/taktemurr-ops/oyun-ses-labirenti
-      ref: 26d252b89f0dd3186b898d46e6225e2e7fa04a5b
+      ref: d91cf124fdaf13ef792b7fb23d0061bbce86792c
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -136,11 +136,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   ozgun_motoru:
     git:
       url: https://github.com/taktemurr-ops/ozgun-motoru
-      ref: 8cbcf48993a56c931ea4df5149b2534ac0dc32f1
+      ref: 9cadda4806d432ed933c69e018da0905607691da
 
 dev_dependencies:
   flutter_test:
