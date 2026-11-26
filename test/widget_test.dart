@@ -35,6 +35,12 @@ void main() {
       'oyun-kervan-yolu',
       'oyun-mahalle-kur',
       'oyun-akvaryum-dengesi',
+      'oyun-kolam-cizgisi',
+      'oyun-girih-desenleri',
+      'oyun-batik-atolyesi',
+      'oyun-minyatur-boyama',
+      'oyun-kagit-oyma',
+      'oyun-kina-deseni',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 0);

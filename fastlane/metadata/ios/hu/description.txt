@@ -1,7 +1,7 @@
-A Eredeti Játékok 30 saját tervezésű játékot gyűjt egy appba: kézművesség ihlette fejtörők — kilim, csempe, márványozás, kalligráfia; fogaskerekes, tükrös, váltós szerkezetek; logikai játékok, mint a tulipánkert, a lép és a gombavadászat; kis világok, mint a karavánút, a negyed és az akvárium. A Hanglabirintus látás nélkül is játszható. Minden játéknak saját haladása, küldetései és eredményei vannak.
+A Eredeti Játékok 36 saját tervezésű játékot gyűjt egy appba: kézművesség ihlette fejtörők — kilim, csempe, márványozás, kalligráfia; fogaskerekes, tükrös, váltós szerkezetek; logikai játékok, mint a tulipánkert, a lép és a gombavadászat; kis világok, mint a karavánút, a negyed és az akvárium. A Hanglabirintus látás nélkül is játszható. Minden játéknak saját haladása, küldetései és eredményei vannak.
 
 • Minden nap: Napi Hármas
-• Kézművesség: Kilimszövés, Csempemester, Márványozó Műhely, Kalligráfia-nyom, Árnyékfüggöny, Papírhajtogatás, Kündekári-táblák, Tezhip-díszítés, Üveggyöngy-kemence, Fazekaskorong, Mozaikrestaurálás
+• Kézművesség: Kilimszövés, Csempemester, Márványozó Műhely, Kalligráfia-nyom, Árnyékfüggöny, Papírhajtogatás, Kündekári-táblák, Tezhip-díszítés, Üveggyöngy-kemence, Fazekaskorong, Mozaikrestaurálás, Kolam-vonal, Girih-minták, Batikműhely, Miniatúra-színező, Papírkivágás, Hennaminta
 • Népi történetek: Hacivat és Karagöz, Nasreddin Hodzsa tréfái
 • Logika: Tulipánkert, Lépes Út, Gombavadászat, Piaci Stand, Csillagképek, Festékkeverés, Hanglabirintus
 • Szerkezetek: Fogaskerék-műhely, Fényút, Forgó Világ, Dőlő Kövek, Váltókezelő, Homokóra

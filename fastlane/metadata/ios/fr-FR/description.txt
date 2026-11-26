@@ -1,7 +1,7 @@
-Jeux Originaux réunit 30 jeux conçus par notre studio dans une app. Des casse-têtes inspirés de l’artisanat (kilim, faïence, marbrure, calligraphie), des mécanismes d’engrenages, de miroirs et d’aiguillages, des jeux de logique comme le jardin de tulipes, la ruche et la cueillette, et de petits mondes : route des caravanes, quartier, aquarium. Le Labyrinthe Sonore se joue sans la vue. Chaque jeu garde sa progression, ses missions et ses succès.
+Jeux Originaux réunit 36 jeux conçus par notre studio dans une app. Des casse-têtes inspirés de l’artisanat (kilim, faïence, marbrure, calligraphie), des mécanismes d’engrenages, de miroirs et d’aiguillages, des jeux de logique comme le jardin de tulipes, la ruche et la cueillette, et de petits mondes : route des caravanes, quartier, aquarium. Le Labyrinthe Sonore se joue sans la vue. Chaque jeu garde sa progression, ses missions et ses succès.
 
 • Chaque jour: Trio du Jour
-• Artisanat: Tissage de Kilim, Maître Faïencier, Atelier de Marbrure, Trait de Calligraphie, Rideau d’Ombres, Pliage de Papier, Panneaux Kündekâri, Enluminure, Four à Perles, Tour de Potier, Restauration de Mosaïques
+• Artisanat: Tissage de Kilim, Maître Faïencier, Atelier de Marbrure, Trait de Calligraphie, Rideau d’Ombres, Pliage de Papier, Panneaux Kündekâri, Enluminure, Four à Perles, Tour de Potier, Restauration de Mosaïques, Ligne de Kolam, Motifs Girih, Atelier Batik, Coloriage Miniature, Papier Découpé, Motif au Henné
 • Contes populaires: Hacivat et Karagöz, Contes de Nasreddine Hodja
 • Logique: Jardin de Tulipes, Chemin de Ruche, Cueillette de Champignons, Étal du Marché, Constellations, Mélange de Peinture, Labyrinthe Sonore
 • Mécanismes: Atelier d’Engrenages, Chemin de Lumière, Monde Tournant, Pièces en Cascade, Aiguillages, Sablier

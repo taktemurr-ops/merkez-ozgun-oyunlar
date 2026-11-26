@@ -1,6 +1,6 @@
 # Özgün Oyunlar · Original Games (merkez-ozgun-oyunlar)
 
-Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 30 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
+Özgün ailenin **merkez uygulaması**: stüdyonun kendi tasarladığı 36 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [ozgun-motoru](https://github.com/taktemurr-ops/ozgun-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Takımyıldız konumları gerçek gök verisine (J2000, yaklaşık) dayanır.
 
 | Oyun | Depo |
 |---|---|
@@ -34,5 +34,11 @@
 | Kervan Yolu | [oyun-kervan-yolu](https://github.com/taktemurr-ops/oyun-kervan-yolu) |
 | Mahalle Kur | [oyun-mahalle-kur](https://github.com/taktemurr-ops/oyun-mahalle-kur) |
 | Akvaryum Dengesi | [oyun-akvaryum-dengesi](https://github.com/taktemurr-ops/oyun-akvaryum-dengesi) |
+| Kolam Çizgisi | [oyun-kolam-cizgisi](https://github.com/taktemurr-ops/oyun-kolam-cizgisi) |
+| Girih Desenleri | [oyun-girih-desenleri](https://github.com/taktemurr-ops/oyun-girih-desenleri) |
+| Batik Atölyesi | [oyun-batik-atolyesi](https://github.com/taktemurr-ops/oyun-batik-atolyesi) |
+| Minyatür Boyama | [oyun-minyatur-boyama](https://github.com/taktemurr-ops/oyun-minyatur-boyama) |
+| Kağıt Oyma | [oyun-kagit-oyma](https://github.com/taktemurr-ops/oyun-kagit-oyma) |
+| Kına Deseni | [oyun-kina-deseni](https://github.com/taktemurr-ops/oyun-kina-deseni) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-ozgun-oyunlar/releases/download/test/merkez-ozgun-oyunlar.apk

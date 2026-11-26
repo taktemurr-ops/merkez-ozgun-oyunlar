@@ -1,7 +1,7 @@
-Permainan Orisinal menghimpun 30 permainan rancangan studio kami dalam satu aplikasi: teka-teki terinspirasi kerajinan seperti tenun kilim, ubin, ebru, dan kaligrafi; mekanisme dari roda gigi, cermin, dan wesel; permainan logika seperti taman tulip, sarang lebah, dan berburu jamur; serta dunia kecil seperti jalur kafilah, lingkungan, dan akuarium. Labirin Suara bisa dimainkan tanpa melihat. Tiap permainan punya kemajuan, misi, dan pencapaian sendiri.
+Permainan Orisinal menghimpun 36 permainan rancangan studio kami dalam satu aplikasi: teka-teki terinspirasi kerajinan seperti tenun kilim, ubin, ebru, dan kaligrafi; mekanisme dari roda gigi, cermin, dan wesel; permainan logika seperti taman tulip, sarang lebah, dan berburu jamur; serta dunia kecil seperti jalur kafilah, lingkungan, dan akuarium. Labirin Suara bisa dimainkan tanpa melihat. Tiap permainan punya kemajuan, misi, dan pencapaian sendiri.
 
 • Setiap hari: Trio Harian
-• Kerajinan: Tenun Kilim, Ahli Ubin, Studio Ebru, Jejak Kaligrafi, Tirai Bayangan, Lipat Kertas, Panel Kündekari, Iluminasi, Tungku Manik Kaca, Roda Tembikar, Restorasi Mosaik
+• Kerajinan: Tenun Kilim, Ahli Ubin, Studio Ebru, Jejak Kaligrafi, Tirai Bayangan, Lipat Kertas, Panel Kündekari, Iluminasi, Tungku Manik Kaca, Roda Tembikar, Restorasi Mosaik, Garis Kolam, Pola Girih, Bengkel Batik, Mewarnai Miniatur, Gunting Kertas, Pola Henna
 • Cerita rakyat: Hacivat dan Karagöz, Kisah Nasruddin Hoja
 • Logika: Taman Tulip, Jalur Sarang Lebah, Berburu Jamur, Lapak Pasar, Rasi Bintang, Campur Cat, Labirin Suara
 • Mekanisme: Bengkel Roda Gigi, Jalur Cahaya, Dunia Berputar, Kepingan Rubuh, Wesel Rel, Jam Pasir

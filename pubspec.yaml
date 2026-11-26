@@ -135,6 +135,30 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-ses-labirenti
       ref: d91cf124fdaf13ef792b7fb23d0061bbce86792c
+  oyun_kolam_cizgisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kolam-cizgisi
+      ref: 15af52f785773c6572eb91d13171c82d53f1f717
+  oyun_girih_desenleri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-girih-desenleri
+      ref: 87d13d20c9f3d338f62d8d89a249e0a34f27857c
+  oyun_batik_atolyesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-batik-atolyesi
+      ref: fde7856c45c9b1e9a5a1da6c63d37f15d2074232
+  oyun_minyatur_boyama:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-minyatur-boyama
+      ref: 149ec69a6c8e74052c82ee6b1121f3e4671c7908
+  oyun_kagit_oyma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kagit-oyma
+      ref: 8cb156d9b26c9d37c8342ef710d1f46d0c101729
+  oyun_kina_deseni:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kina-deseni
+      ref: dec34be090aae9a7ca37f68f2df01d8b492e0192
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -152,7 +176,7 @@ dependency_overrides:
   ozgun_motoru:
     git:
       url: https://github.com/taktemurr-ops/ozgun-motoru
-      ref: 5825d86ce94deb126cd40f08ce3a22c485ebf0e6
+      ref: a94eb9bbce1c0d09e9eec9703713e433c0321fcd
 
 dev_dependencies:
   flutter_test:
