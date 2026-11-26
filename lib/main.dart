@@ -138,7 +138,6 @@ final hubConfig = HubConfig(
   ],
   starters: ['oyun-gunluk-uclu', 'oyun-kilim-dokuma', 'oyun-isik-yolu'],
   covers: const {
-    'oyun-akvaryum': GameCover('nonogram', v: 2),
     'oyun-akvaryum-dengesi': GameCover('aquac'),
     'oyun-bal-petegi': GameCover('honeyc'),
     'oyun-boya-karisimi': GameCover('paintc'),
@@ -146,7 +145,6 @@ final hubConfig = HubConfig(
     'oyun-cini-ustasi': GameCover('cinic'),
     'oyun-comlek-carki': GameCover('comlekc'),
     'oyun-disli-atolyesi': GameCover('gearc'),
-    'oyun-domino': GameCover('domino'),
     'oyun-domino-zinciri': GameCover('dominoc'),
     'oyun-doner-dunya': GameCover('rotworldc'),
     'oyun-ebru-atolyesi': GameCover('ebruc'),
@@ -280,7 +278,7 @@ final hubConfig = HubConfig(
           'Logic',
           'Lohika',
         ],
-        ids: ['oyun-lale-bahcesi', 'oyun-bal-petegi', 'oyun-mantar-avi', 'oyun-pazar-tezgahi', 'oyun-takimyildiz']),
+        ids: ['oyun-lale-bahcesi', 'oyun-bal-petegi', 'oyun-mantar-avi', 'oyun-pazar-tezgahi', 'oyun-takimyildiz', 'oyun-boya-karisimi', 'oyun-ses-labirenti']),
     HubSection(
         title: [
           'Mekanizmalar',
@@ -354,7 +352,7 @@ final hubConfig = HubConfig(
           'Thế giới nhỏ',
           'Maliliit na mundo',
         ],
-        ids: ['oyun-kervan-yolu', 'oyun-mahalle-kur', 'oyun-akvaryum-dengesi', 'oyun-boya-karisimi', 'oyun-ses-labirenti']),
+        ids: ['oyun-kervan-yolu', 'oyun-mahalle-kur', 'oyun-akvaryum-dengesi']),
   ],
 );
 
